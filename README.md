@@ -1,5 +1,7 @@
 
-Makine öğrenmesi ve Python programlama dili ile basit düzeyde bir duygu analizi örneğidir. Veri setimizdeki yorumlardan yola çıkıyor, yeni yapılan bir yorumun olumlu veya olumsuz durumunun kaybolmaması için mevcut.
+Makine öğrenmesi ve Python programlama dili ile basit düzeyde bir duygu analizi örneğidir. 
+
+Veri setimizdeki yorumlardan yola çıkıyor, yeni yapılan bir yorumun olumlu veya olumsuz durumunun kaybolmaması için mevcut.
 
 Elimizde farklı filmlere ait 19999 yorum içeren bir veri setimiz vardır. Bu veri setindeki,
 
