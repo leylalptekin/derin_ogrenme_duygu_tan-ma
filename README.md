@@ -10,6 +10,6 @@ Geri kalan yorumlar ise negatiftir (olumsuzdur).
 yüklenen fotoğrafa göre duygu durum analizi yapar
   
    
-   
+    
  
  
