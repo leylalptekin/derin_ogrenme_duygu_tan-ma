@@ -1,4 +1,4 @@
-
+  
 Makine öğrenmesi ve Python programlama dili ile basit düzeyde bir duygu analizi örneğidir. 
 
 Veri setimizdeki yorumlardan yola çıkıyor, yeni yapılan bir yorumun olumlu veya olumsuz durumunun kaybolmaması için mevcut.
@@ -13,4 +13,5 @@ yüklenen fotoğrafa göre duygu durum analizi yapar
     
  
   
+ 
  
