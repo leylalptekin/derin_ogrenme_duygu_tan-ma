@@ -8,6 +8,7 @@ Elimizde farklı filmlere ait 19999 yorum içeren bir veri setimiz vardır. Bu v
 İlk 10002 yorum olumlu (olumlu)
 Geri kalan yorumlar ise negatiftir (olumsuzdur). 
 yüklenen fotoğrafa göre duygu durum analizi yapar  
+ 
       
        
       
