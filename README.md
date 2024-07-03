@@ -6,7 +6,7 @@ Veri setimizdeki yorumlardan yola çıkıyor, yeni yapılan bir yorumun olumlu v
 Elimizde farklı filmlere ait 19999 yorum içeren bir veri setimiz vardır. Bu veri setindeki,
 
 İlk 10002 yorum olumlu (olumlu)
-Geri kalan yorumlar ise negatiftir (olumsuzdur).  
+Geri kalan yorumlar ise negatiftir (olumsuzdur).   
 yüklenen fotoğrafa göre duygu durum analizi yapar   
       
             
